@@ -1,6 +1,6 @@
 # 🛒 Proyecto QA Manual – Testing Exploratorio sobre Marketplace
 
-# 📌 Descripción del Proyecto
+#  Descripción del Proyecto
 
 Este proyecto consiste en la ejecución de pruebas manuales exploratorias sobre el marketplace público Mercado Libre, con fines exclusivamente académicos y de práctica profesional como QA Engineer Junior.
 
@@ -8,13 +8,13 @@ Se analizaron funcionalidades principales relacionadas al flujo de búsqueda y v
 
 ---
 
-# 🎯 Objetivo
+#  Objetivo
 
 Identificar posibles defectos funcionales, problemas de usabilidad y riesgos en la experiencia del usuario dentro del flujo principal de búsqueda.
 
 ---
 
-# 🔎 Alcance del Testing
+#  Alcance del Testing
 
 Funcionalidades evaluadas:
 
@@ -33,7 +33,7 @@ Fuera de alcance:
 
 ---
 
-# 🧪 Tipo de Pruebas Ejecutadas
+#  Tipo de Pruebas Ejecutadas
 
 - Testing Manual
 - Testing Exploratorio
@@ -42,7 +42,7 @@ Fuera de alcance:
 
 ---
 
-# 💻 Entorno de Pruebas
+#  Entorno de Pruebas
 
 - Navegador: Google Chrome
 - Sistema Operativo: Windows 11
@@ -50,7 +50,7 @@ Fuera de alcance:
 
 ---
 
-# 📊 Resumen de Ejecución
+#  Resumen de Ejecución
 
 - Total casos de prueba ejecutados: 12
 - Casos exitosos: 9
@@ -82,7 +82,7 @@ Los detalles pueden consultarse en el archivo Bug-Reports.md.
 
 ---
 
-# 📌 Conclusión
+#  Conclusión
 
 El flujo principal de búsqueda es funcional; sin embargo, se identificaron oportunidades de mejora en usabilidad y experiencia del usuario.
 
